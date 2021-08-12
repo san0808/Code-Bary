@@ -1,0 +1,20 @@
+.Sidebar{
+    display: flex;
+    height: 600px;;
+    border: 1px solid black;
+    border-radius: 10px;
+    background-color: rgb(242, 242, 242);
+    width: 200px;
+    float: right;
+    scroll-behavior: hide;
+}
+.Heading{
+    align-content: center;
+    font-weight: 600;
+}
+/* .Heading:hover{
+    color: rgb(159, 175, 184);
+} */
+/* .TocIcon:hover{
+    color: rgb(159, 175, 184);
+} */
