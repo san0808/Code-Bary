@@ -1,7 +1,7 @@
 .Sidebar{
     display: flex;
     height: 600px;;
-    border: 1px solid black;
+    border: 1px solid rgb(148, 148, 148);
     border-radius: 10px;
     background-color: rgb(242, 242, 242);
     width: 200px;
@@ -12,6 +12,14 @@
     align-content: center;
     font-weight: 600;
 }
+.Sidebar:hover{
+    border: 1px solid black;
+    cursor: pointer;
+}
+div.Sidebar:nth-child(2) {
+    margin-top: 21px;
+   }
+   
 /* .Heading:hover{
     color: rgb(159, 175, 184);
 } */

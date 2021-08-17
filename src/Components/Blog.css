@@ -1,0 +1,15 @@
+.Blog{
+    border: 1px solid rgb(148, 148, 148);
+    background-color: rgb(242, 242, 242);
+    height: 600px;
+    max-height: fit-content;
+    width: 774px;
+    padding-left: 0px;
+    padding-right: 0px;
+    margin-left: 200px;
+    margin-right: 165px;
+    border-radius: 20px;
+    margin-top: 21px;
+}
+
+   

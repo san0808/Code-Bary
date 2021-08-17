@@ -1,0 +1,10 @@
+.Home-Page{
+    display: flex;
+    flex-direction: row;
+    
+       
+}
+div.Home-Page {
+    margin-left: 0px;
+    margin-right: 0px;
+   }
